@@ -101,7 +101,7 @@ $resultado = $conexao->query($sql);
                             <a href="index.php?pagina=categories&genero=Terror" class="btn btn-danger btn-lg btn-block">Terror</a>
                         </div>
                         <div class="col-md-4 mb-3">
-                            <a href="index.php?pagina=categories&genero=Acao" class="btn btn-danger btn-lg btn-block">Ação</a>
+                            <a href="index.php?pagina=categories&genero=Acao" class="btn btn-danger btn-lg btn-block">Ação </a>
                         </div>
                         <div class="col-md-4 mb-3">
                             <a href="index.php?pagina=categories&genero=Suspense" class="btn btn-danger btn-lg btn-block">Suspense</a>
